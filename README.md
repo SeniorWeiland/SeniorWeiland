@@ -1,5 +1,5 @@
-👋 Hi, I’m Tobias Weiland. Welcome to my GitHub Profile. I've just finished my masters degree in automotive systems. 
-In my final thesis i was focussing on predictive maintanance topics in the railway sector using ML methods. This experience brought me intro Machine Learning.
+👋 Hi, I’m Tobias Weiland. Welcome to my GitHub Profile. I've just finished my masters degree in Automotive Systems at the Technical University in Berlin. 
+In my final thesis i was collaborating with the German Aerospace Center (DLR) on a predictive maintanance topic in the railway sector using ML methods. This experience and various modules at the university ignited my passion intro Machine Learning and data-based modelling.
 
 - 🙍‍♂️ 28
 - 🌍 Berlin, Germany
